@@ -36,7 +36,7 @@ This repository contains the code for a simple yet engaging fish evolution game 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/CiaranFlanagan/Submerged.git
    ```
 
 2. Open `index.html` in a web browser to start the game.
