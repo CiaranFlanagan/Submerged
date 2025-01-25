@@ -21,6 +21,7 @@ This repository contains the code for a simple yet engaging fish evolution game 
 
 ## File Structure
 
+```plaintext
 ├── css
 │   └── main.css          # Styles for the game layout
 ├── js
@@ -29,6 +30,7 @@ This repository contains the code for a simple yet engaging fish evolution game 
 │   ├── Genetics.js       # Genetic algorithm implementation
 │   └── main.js           # Game initialization and loop
 ├── index.html            # Entry point for the game
+```
 
 ## Setup
 
@@ -56,5 +58,4 @@ This repository contains the code for a simple yet engaging fish evolution game 
 ### SubmarinePilot
 - Represents the player-controlled submarine.
 - Handles movement and shooting mechanics.
-
 
